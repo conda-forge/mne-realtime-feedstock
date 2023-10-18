@@ -1,5 +1,5 @@
 {% set name = "mne-realtime" %}
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: d8d930ff20b23e5c34fd23e8ec54f435b17ecfb2aa27f765b42d8e249b93b0fd
+  sha256: 5ece5d8be166c45455aa4e289261a4086f2882bf79f48f9cd206019f902b817c
 
 build:
   noarch: python

@@ -1,11 +1,11 @@
-About mne-realtime
-==================
+About mne-realtime-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mne-realtime-feedstock/blob/main/LICENSE.txt)
 
 Home: https://mne.tools/mne-realtime
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mne-realtime-feedstock/blob/main/LICENSE.txt)
 
 Summary: Realtime data analysis with MNE-Python
 
